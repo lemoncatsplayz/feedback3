@@ -1,0 +1,124 @@
+#table{
+    background-color: black;
+    width: 1000px;
+    font-family: Single Day;
+
+}
+#table_row1{
+    background-color: grey;
+    text-align: center;
+    font-size: 70%;
+}
+#table_row2{
+    background-color: lightgrey;
+    text-align: center;
+    font-size: 70%;
+}
+#continent_title{
+    font-size: 120px;
+    text-align: center;
+    font-family: Honk;
+    
+}
+#country_list{
+    font-family: Cute Font;
+    font-size: 50px;
+    float: left;
+    position: relative;
+    left: 10px;
+}
+#country_map{
+    float: left;
+    border-color: black;
+    border-style: outset;
+    padding: 5px;
+    border-radius: 5px;
+    border-width: 5px;
+   
+}
+#country{
+    font-size: 40px;
+    position: relative;
+    left: 10px;
+}
+#continent_subtitles{
+    font-family: Cute Font;
+    font-size: 50px;
+}
+#main_page_title{
+    font-family: Honk;
+    font-size: 120px;
+    text-align: center;
+    position: relative;
+    bottom: 50px;
+}
+#main_page_subtitles{
+    font-family: Cute Font;
+    font-size: 40px;
+}
+#main_page_info{
+    position: relative;
+    bottom: 150px;
+}
+#continents_title{
+    font-family: Honk;
+    font-size: 40px;
+}
+#continents_list{
+    font-family: Cute Font;
+    font-size: 30px;
+}
+#background_color{
+    background: linear-gradient(to bottom,#349eeb,#34eb5c);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#country_flag{
+    height: 40px;
+    width: 60px;
+}
+#feedback_subtitles{
+    font-family: Cute Font;
+    font-size: 30px;
+    position: relative;
+    margin-top: 0%;
+}
+#feedback_titles{
+    font-family: Honk;
+    font-size: 120px;
+    position: relative;
+    margin-top: 0%;
+}
+#links{
+    float: left;
+}
+#continent_title{
+    font-size: 120px;
+    text-align: center;
+    font-family: Honk;
+    
+}
+#continent_title_asia{
+    font-size: 120px;
+    text-align: center;
+    font-family: Honk;
+}
+#continent_title_europe{
+    font-size: 120px;
+    text-align: center;
+    font-family: Honk;
+}
+#continent_title_africa{
+    font-size: 120px;
+    text-align: center;
+    font-family: Honk;
+}
+#continent_title_north_america{
+    font-size: 120px;
+    text-align: center;
+    font-family: Honk;
+}
+#feedback_test{
+    font-size: 40px;
+    font-family:Cute Font;
+}
